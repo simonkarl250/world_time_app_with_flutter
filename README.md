@@ -6,11 +6,11 @@ A new Flutter project.
 
 This project is a starting point for a Flutter application  to get time anywhere in the world.
 
-##Instruction to get the app
+## Instruction to get the app source code
 
 - make sure you have flutter set up in machine
 - you can use android studio or vs code
-- finally import the proect
+- finally import the project
 
 A few resources to get you started if this is your first Flutter project:
 
