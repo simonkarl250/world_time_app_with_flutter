@@ -16,16 +16,17 @@ This project is a starting point for a Flutter application  to get time anywhere
  # The app has three screens that is home screen, select location screen and the loading screen
 
 ## home screen Day Time
-![Home Screen!](screenshoots/Screenshot_20230929_085305.png=250x250)
-
+<div style="width: 60%; height: 60%">
+![Home Screen!](screenshoots/Screenshot_20230929_085305.png)
+</div>
 ## home screen Night Time
 
-![Home Screen!](screenshoots/Screenshot_20230929_085637.png=250x250)
+![Home Screen!](screenshoots/Screenshot_20230929_085637.png)
 
 ## choose location screen 
 This is where the user can choose the location he/she wants to get the exact time
 
-![Home Screen!](screenshoots/Screenshot_20230929_085342.png=250x250)
+![Home Screen!](screenshoots/Screenshot_20230929_085342.png)
 
 
 
