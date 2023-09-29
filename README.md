@@ -17,7 +17,15 @@ This project is a starting point for a Flutter application  to get time anywhere
 
 ## home screen Day Time
 
+
+
+
+<div>
 <img src="screenshoots/Screenshot_20230929_085305.png" width="200" height="400" />
+<img src="screenshoots/Screenshot_20230929_085305.png" width="200" height="400" />
+<img src="screenshoots/Screenshot_20230929_085305.png" width="200" height="400" />
+</div>
+
 ## home screen Night Time
 
 ![Home Screen!](screenshoots/Screenshot_20230929_085637.png)
